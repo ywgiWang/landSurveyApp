@@ -32,7 +32,7 @@ Software Usage Scenarios
   - 🟢 绿色：已完成调查区块
 
 <div align="center">
-<img src="./samples/Screenshot 2025-07-17 103821.png" height="300" />
+<img src="./samples/Screenshot 2025-07-17 103821.png" height="400" />
 </div>
 
 ### 2. 实时定位与导航
@@ -41,8 +41,8 @@ Software Usage Scenarios
 - 提供目标图斑导航功能，支持路径规划与指引
 
 <div align="center">
-<img src="./samples/Screenshot 2025-07-17 104656.png" height="300" />
-<img src="./samples/Screenshot 2025-07-17 105524.png" height="300" />
+<img src="./samples/Screenshot 2025-07-17 104656.png" height="400" />
+<img src="./samples/Screenshot 2025-07-17 105524.png" height="400" />
 
 </div>
 
@@ -53,9 +53,9 @@ Software Usage Scenarios
 - 照片EXIF信息提取，包含位置数据
 
 <div align="center">
-<img src="./samples/Screenshot 2025-07-17 105051.png" height="300" />
-<img src="./samples/Screenshot 2025-07-17 105106.png" height="300" />
-<img src="./samples/Screenshot 2025-07-17 105128.png" height="300" />
+<img src="./samples/Screenshot 2025-07-17 105051.png" height="400" />
+<img src="./samples/Screenshot 2025-07-17 105106.png" height="400" />
+<img src="./samples/Screenshot 2025-07-17 105128.png" height="400" />
 </div>
 
 
